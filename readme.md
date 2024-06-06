@@ -1,4 +1,4 @@
-# this is the read me file
+This is a Job Related website 
+where you can do provide and find jobs.
 
-- javascript
-  console.log("Hello World")
+#Don't forget to add required information in .env file 
